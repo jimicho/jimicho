@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## 個人開発
 
 ## ハッカソン
--Tab整理Chrome拡張機能[技育CAMPハッカソンvol.10)](https://x.com/geek_pjt/status/1619628596360011776)
--たこ焼き評価Androidアプリ[KC3HACK2024](https://x.com/kc3_official/status/1761673869826703521)
+- Tab整理Chrome拡張機能[技育CAMPハッカソンvol.10)](https://x.com/geek_pjt/status/1619628596360011776)
+- たこ焼き評価Androidアプリ[KC3HACK2024](https://x.com/kc3_official/status/1761673869826703521)
 
